@@ -1,14 +1,61 @@
-# Awesome AI Agent Platforms
+# Awesome AI Agent Platforms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A curated list of awesome AI agent platforms and tools for building, deploying, and managing AI agents.
+A curated list of awesome AI agent platforms and tools for building, deploying, and managing AI agents by [Daniel Rosehill](http://danielrosehill.com).
 
 For a detailed analysis of the AI agent platform landscape, see our [(Opinionated) Notes on AI Agent & Assistant Platforms](notes.md).
 
+## Contents
+
+- [Contents](#contents)
+- [Related Awesome Lists](#related-awesome-lists)
+- [CLI Tools](#cli-tools)
+- [Orchestration Frameworks](#orchestration-frameworks)
+- [Low-Code/No-Code Platforms](#low-codeno-code-platforms)
+- [LLM Development Platforms](#llm-development-platforms)
+- [Agent Integration Platforms](#agent-integration-platforms)
+- [Computer Use Agents](#computer-use-agents)
+- [Agent Memory Layer](#agent-memory-layer)
+- [AI Agent Marketplaces](#ai-agent-marketplaces)
+- [Code First Projects & Frameworks](#code-first-projects-frameworks)
+- [Prompt Engineering for Agents](#prompt-engineering-for-agents)
+- [Tutorials & Documentation](#tutorials-documentation)
+- [General LLM Frontends with Agent Support](#general-llm-frontends-with-agent-support)
+- [Automation Platforms with Agent Support](#automation-platforms-with-agent-support)
+- [Open Source & Self Hostable](#open-source-self-hostable)
+- [SaaS](#saas)
+- [Programming Frameworks](#programming-frameworks)
+- [Voice Agents](#voice-agents)
+- [Personal Assistant Platforms](#personal-assistant-platforms)
+- [Orchestration and Enterprise](#orchestration-and-enterprise)
+- [Vector Databases](#vector-databases)
+- [Model Context Protocol (MCP)](#model-context-protocol-mcp)
+- [Social Networks & Community](#social-networks-community)
+- [RAG Applications](#rag-applications)
+- [Use Case: Sales](#use-case-sales)
+- [Use Case: Travel](#use-case-travel)
+- [Desktop Tools](#desktop-tools)
+- [Use Case: Code Generation](#use-case-code-generation)
+- [Runtime](#runtime)
+- [Agent UI Components](#agent-ui-components)
+- [Agent Tools](#agent-tools)
+ 
 ## Related Awesome Lists
 
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [Awesome Agents by Kyrolabs](https://github.com/kyrolabs/awesome-agents)
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Best AI Agents](https://github.com/SamurAIGPT/Best-AI-Agents)
+- [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+- [Awesome AI Agents by Jenqyang](https://github.com/Jenqyang/Awesome-AI-Agents)
+- [Awesome AI Agents by slavakurilyak](https://github.com/slavakurilyak/awesome-ai-agents)
+
+## CLI Tools
+
+### [AiChat](https://github.com/sigoden/aichat)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/sigoden/aichat)
+
+Command-line interface for interacting with AI models.
 
 ## Orchestration Frameworks
 
@@ -26,6 +73,18 @@ Framework for orchestrating role-playing, autonomous AI agents.
 
 Framework for developing applications powered by language models.
 
+### [CAMEL](https://github.com/camel-ai/camel)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/camel-ai/camel)
+
+Communicative Agents for Mind Exploration and Learning.
+
+### [LiveKit Agents](https://github.com/livekit/agents-js)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/livekit/agents-js)
+
+Framework for building real-time AI agents.
+
 ## Low-Code/No-Code Platforms
 
 ### [Flowise](https://flowiseai.com/)
@@ -34,6 +93,24 @@ Framework for developing applications powered by language models.
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/FlowiseAI/Flowise)
 
 Open source low-code platform to build customized LLM flows and AI agents.
+
+### [Databerry](https://github.com/gmpetrov/databerry)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/gmpetrov/databerry)
+
+No-code platform for building AI-powered applications.
+
+### [Vector Vein](https://github.com/AndersonBY/vector-vein)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/AndersonBY/vector-vein)
+
+Visual tool for building vector-based AI applications.
+
+### [LLMStack](https://github.com/trypromptly/LLMStack)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/trypromptly/LLMStack)
+
+Low-code platform for building AI applications.
 
 ## LLM Development Platforms
 
@@ -76,6 +153,30 @@ Platform for composing and integrating AI agents with various services and APIs.
 
 Development toolkit for building and managing AI agents.
 
+### [Project OAgents](https://github.com/microsoft/project-oagents)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/microsoft/project-oagents)
+
+Microsoft's framework for building open and interoperable AI agents.
+
+### [IntentKit](https://github.com/crestalnetwork/intentkit)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/crestalnetwork/intentkit)
+
+Toolkit for building intent-driven AI agents.
+
+### [ZerePy](https://github.com/blorm-network/ZerePy)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/blorm-network/ZerePy)
+
+Python framework for zero-shot learning in AI agents.
+
+### [Mastra](https://github.com/mastra-ai/mastra)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mastra-ai/mastra)
+
+Framework for building and deploying AI agents.
+
 ## Computer Use Agents
 
 ### [Browser Use](https://github.com/browser-use/browser-use)
@@ -83,6 +184,18 @@ Development toolkit for building and managing AI agents.
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/browser-use/browser-use)
 
 Framework for building AI agents that can interact with web browsers.
+
+### [Stagehand](https://github.com/browserbase/stagehand)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/browserbase/stagehand)
+
+Tool for automating browser interactions with AI agents.
+
+### [AutoTab Starter](https://github.com/Planetary-Computers/autotab-starter)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Planetary-Computers/autotab-starter)
+
+Starter kit for building browser automation agents.
 
 ## Agent Memory Layer
 
@@ -166,6 +279,18 @@ Tools and techniques for engineering effective agent prompts.
 
 Educational resources for building generative AI agents.
 
+### [AI Agents Cookbooks](https://github.com/ytang07/ai_agents_cookbooks)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ytang07/ai_agents_cookbooks)
+
+Collection of recipes and tutorials for building AI agents.
+
+### [GenAI Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mongodb-developer/GenAI-Showcase)
+
+Showcase of generative AI applications and agents.
+
 ## General LLM Frontends with Agent Support
 
 ### [OpenWebUI](https://openwebui.com/)
@@ -188,6 +313,12 @@ Open-source chat interface with support for multiple AI models and agent capabil
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Mintplex-Labs/anything-llm)
 
 Flexible platform for deploying custom LLM-powered applications and agents.
+
+### [Dust](https://github.com/dust-tt/dust)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/dust-tt/dust)
+
+Open-source platform for building LLM-powered applications.
 
 ## Automation Platforms with Agent Support
 
@@ -326,6 +457,12 @@ Enterprise conversational AI platform.
 
 Conversational AI platform for voice and chat agents.
 
+### [Bolna](https://github.com/bolna-ai/bolna)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/bolna-ai/bolna)
+
+Open-source voice AI platform.
+
 ## Personal Assistant Platforms
 
 ### [Lindy](https://www.lindy.ai/)
@@ -334,6 +471,12 @@ Conversational AI platform for voice and chat agents.
 
 AI-powered personal assistant platform.
 
+### [AIlice](https://github.com/myshell-ai/AIlice)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/myshell-ai/AIlice)
+
+Open-source personal AI assistant.
+
 ## Orchestration and Enterprise
 
 ### [Vue.ai](https://www.vue.ai/)
@@ -341,6 +484,12 @@ AI-powered personal assistant platform.
 [![Open/View Site](https://img.shields.io/badge/Open/View%20Site-blue?style=flat-square&logo=link)](https://www.vue.ai/)
 
 Enterprise AI platform for retail automation and personalization.
+
+### [AI Legion](https://github.com/eumemic/ai-legion)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/eumemic/ai-legion)
+
+Platform for orchestrating multiple AI agents.
 
 ## Vector Databases
 
@@ -385,3 +534,67 @@ Community platform for AI agent developers and enthusiasts.
 [![Reddit Community](https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit)](https://www.reddit.com/r/AI_Agents/)
 
 Reddit community for discussing AI agents and their applications.
+
+## RAG Applications
+
+### [RagApp](https://github.com/ragapp/ragapp)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ragapp/ragapp)
+
+Framework for building Retrieval-Augmented Generation applications.
+
+## Use Case: Sales
+
+### [SalesGPT](https://github.com/filip-michalsky/SalesGPT)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/filip-michalsky/SalesGPT)
+
+AI-powered sales automation platform.
+
+## Use Case: Travel
+
+### [AI Travel Agent](https://github.com/nirbar1985/ai-travel-agent)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/nirbar1985/ai-travel-agent)
+
+AI agent for travel planning and recommendations.
+
+## Desktop Tools
+
+### [LangGraph Studio](https://github.com/langchain-ai/langgraph-studio)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/langchain-ai/langgraph-studio)
+
+Visual tool for building and debugging LangChain graphs.
+
+## Use Case: Code Generation
+
+### [Micro Agent](https://github.com/BuilderIO/micro-agent)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/BuilderIO/micro-agent)
+
+Lightweight agent for code generation tasks.
+
+## Runtime
+
+### [Chidori](https://github.com/ThousandBirdsInc/chidori)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ThousandBirdsInc/chidori)
+
+Runtime environment for AI agents.
+
+## Agent UI Components
+
+### [PySpur](https://github.com/PySpur-Dev/pyspur)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/PySpur-Dev/pyspur)
+
+UI components library for building AI agent interfaces.
+
+## Agent Tools
+
+### [AgentKit](https://github.com/coinbase/agentkit)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/coinbase/agentkit)
+
+Toolkit for building and deploying AI agents.
