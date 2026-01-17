@@ -71,6 +71,10 @@ Desktop application for running local AI models and agents with a chat interface
 
 AI-native code editor with integrated AI agent capabilities.
 
+### [OpenWork](https://openwork.software/)
+
+Desktop GUI for OpenCode with sessions, skills, plugins, and templates in one place.
+
 ## CLI Tools
 
 *Command-line interfaces and tools for working with AI agents.*
