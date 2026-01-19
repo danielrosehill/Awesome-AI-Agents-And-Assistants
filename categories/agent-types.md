@@ -42,6 +42,12 @@ Natural language interface for computers.
 
 Control any computer using LLMs.
 
+### [Openwork](https://github.com/accomplish-ai/openwork)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/accomplish-ai/openwork)
+
+MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
+
 ## Voice Agents
 
 Agents that interact through voice and speech interfaces.
