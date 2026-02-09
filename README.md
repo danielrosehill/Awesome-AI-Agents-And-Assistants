@@ -12,6 +12,13 @@ AI agents are autonomous or semi-autonomous systems powered by large language mo
 
 This repository is organized into logical categories to help you navigate the growing ecosystem of AI agent platforms and tools. Each category has its own dedicated page with detailed information about relevant projects.
 
+## [Holy Grail](https://github.com/dakotalock/holygrailopensource)
+
+Autonomous AI development agent that generates, evolves, and deploys complete web applications with long-term memory.
+
+### Links
+- [GitHub](https://github.com/dakotalock/holygrailopensource)
+
 ## Categories
 
 ### Development
