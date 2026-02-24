@@ -116,6 +116,12 @@ Open-source voice AI platform.
 
 Agents designed to function as personal assistants.
 
+### [AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/)
+
+[![Open/View Site](https://img.shields.io/badge/Open/View%20Site-blue?style=flat-square&logo=link)](https://openclawapp.netlify.app/assistant/)
+
+Managed AI assistant service for small businesses. Executes tasks autonomously (calls, emails, reports, bookings), integrates with business tools, learns workflows, runs 24/7. Enterprise-grade security for SMBs.
+
 ### [Lindy](https://www.lindy.ai/)
 
 [![Open/View Site](https://img.shields.io/badge/Open/View%20Site-blue?style=flat-square&logo=link)](https://www.lindy.ai/)
