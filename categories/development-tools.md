@@ -12,6 +12,12 @@ Command-line tools for interacting with and developing AI agents.
 
 Command-line interface for interacting with AI models.
 
+### [OpenPaw](https://github.com/daxaur/openpaw)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/daxaur/openpaw)
+
+Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including git, Telegram, Discord, Obsidian, and daily briefing. No daemon, no cloud, MIT licensed.
+
 ## Low-Code/No-Code Platforms
 
 Platforms that allow building AI agents with minimal coding.
