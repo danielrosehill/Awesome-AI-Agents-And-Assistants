@@ -86,9 +86,13 @@ Speech recognition toolkit with comprehensive tools for building speech recognit
 
 Open-source home automation platform with voice assistant integration capabilities.
 
-### [Mycroft](https://github.com/MycroftAI/mycroft-core)
+### [OpenVoiceOS](https://github.com/OpenVoiceOS/OpenVoiceOS)
 
 Open-source voice assistant platform that can be extended with skills and customized for various applications.
+
+### [NeonAI](https://github.com/NeonGeckoCom/NeonCore)
+
+Neon Core extends Mycroft core with more modular code, extended multi-user support, and more.
 
 ### [Leon](https://github.com/leon-ai/leon)
 
