@@ -141,6 +141,14 @@ Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. I
 
 [View in Repository](./categories/development-tools.md#agentops)
 
+### [agenttrace](https://github.com/luoyuctl/agenttrace)
+
+**Category:** [Development Tools](./categories/development-tools.md) > Agent Integration Platforms
+
+Local-first TUI observability for AI coding-agent sessions, tracing cost, tokens, tool failures, latency, anomalies, health, diffs, reports, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, Qwen Code, Cline, OpenCode/OpenClaw, Kimi CLI, and JSON/JSONL traces.
+
+[View in Repository](./categories/development-tools.md#agenttrace)
+
 ### [AgentPilot](https://github.com/jbexta/AgentPilot)
 
 **Category:** [Development Frameworks](./categories/development-frameworks.md) > Orchestration Frameworks

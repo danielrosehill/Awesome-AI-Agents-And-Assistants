@@ -92,6 +92,12 @@ The fastest way to build robust AI agents. Development toolkit for building and 
 
 Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI.
 
+### [agenttrace](https://github.com/luoyuctl/agenttrace)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/luoyuctl/agenttrace)
+
+Local-first TUI observability for AI coding-agent sessions, tracing cost, tokens, tool failures, latency, anomalies, health, diffs, reports, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, Qwen Code, Cline, OpenCode/OpenClaw, Kimi CLI, and JSON/JSONL traces.
+
 ### [AgentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/agentuniverse-ai/agentUniverse)
