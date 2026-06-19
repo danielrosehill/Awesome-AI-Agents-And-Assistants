@@ -41,6 +41,10 @@ Agentic IDE that implements MCP for seamless agent-model communication.
 
 Browser automation tool with MCP integration for web-based agents.
 
+### [NotFair](https://github.com/nowork-studio/NotFair)
+
+Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars). Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP, enabling autonomous audits, keyword research, bid management, and creative analysis directly inside Claude Code.
+
 ## MCP Tools and Libraries
 
 *Tools and libraries that help developers work with MCP.*
