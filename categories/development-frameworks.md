@@ -217,3 +217,9 @@ Environments for running and executing AI agents.
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ThousandBirdsInc/chidori)
 
 Runtime environment for AI agents.
+
+### [rust-norion](https://github.com/yanghao1143/rust-norion)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/yanghao1143/rust-norion)
+
+Rust prototype for AI runtime-control boundaries with routing, memory gates, evidence checks, rollback, and audit traces.
