@@ -1219,6 +1219,14 @@ Platform for building voice-enabled AI agents.
 
 [View in Repository](./categories/agent-types.md#retell-ai)
 
+### [rust-norion](https://github.com/yanghao1143/rust-norion)
+
+**Category:** [Development Frameworks](./categories/development-frameworks.md) > Runtime Environments
+
+Rust prototype for AI runtime-control boundaries with routing, memory gates, evidence checks, rollback, and audit traces.
+
+[View in Repository](./categories/development-frameworks.md#rust-norion)
+
 ## S
 
 ### [SalesGPT](https://github.com/filip-michalsky/SalesGPT)
