@@ -67,6 +67,10 @@ Production-ready AI assistant framework with mobile-responsive web interface.
 
 Desktop application for running local AI models and agents with a chat interface.
 
+### [Orkas](https://github.com/Orkas-AI/Orkas)
+
+Open-source, local-first desktop AI workforce that coordinates a Commander and specialist agents through one conversation.
+
 ### [Cursor](https://www.cursor.so/)
 
 AI-native code editor with integrated AI agent capabilities.
