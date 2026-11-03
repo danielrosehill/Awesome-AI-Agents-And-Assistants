@@ -1,5 +1,7 @@
 # Awesome AI Agent Platforms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 A curated list of awesome AI agent platforms and tools for building, deploying, and managing AI agents by [Daniel Rosehill](http://danielrosehill.com).
 
 For a detailed analysis of the AI agent platform landscape, see our [(Opinionated) Notes on AI Agent & Assistant Platforms](notes.md).
