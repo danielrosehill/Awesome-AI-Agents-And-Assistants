@@ -48,6 +48,14 @@ End-to-end autonomous research workflow meant to assist you as the human researc
 
 [View in Repository](./categories/use-cases-applications.md#agent-laboratory)
 
+### [Agent QA](https://github.com/vostride/agent-qa)
+
+**Category:** [Development Tools](./categories/development-tools.md) > Agent Tools
+
+Source-available framework for evaluating AI agents on repeatable browser and mobile tasks, with trajectory capture and pass/fail assertions. Releases use FSL-1.1-ALv2 and convert to Apache-2.0 after two years.
+
+[View in Repository](./categories/development-tools.md#agent-qa)
+
 ### [Agent Zero](https://github.com/frdel/agent-zero)
 
 **Category:** [Development Frameworks](./categories/development-frameworks.md) > Code First Projects & Frameworks
@@ -1400,4 +1408,3 @@ AI agent expert in PostgreSQL.
 Python framework for zero-shot learning in AI agents.
 
 [View in Repository](./categories/development-tools.md#zerepy)
-

@@ -206,6 +206,12 @@ AI-Powered Penetration Testing Assistant.
 
 An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility.
 
+### [Agent QA](https://github.com/vostride/agent-qa)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/vostride/agent-qa)
+
+Source-available framework for evaluating AI agents on repeatable browser and mobile tasks, with trajectory capture and pass/fail assertions. Releases use FSL-1.1-ALv2 and convert to Apache-2.0 after two years.
+
 ### [AgentQL](https://github.com/tinyfish-io/agentql)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/tinyfish-io/agentql)
