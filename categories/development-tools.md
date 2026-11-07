@@ -217,3 +217,9 @@ A suite of tools for connecting your AI to the web. Featuring a query language a
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/composio/composio)
 
 Equips your AI agents & LLMs with 100+ high-quality integrations via function calling.
+
+### [NovaSynth](https://noveum.ai/en/novasynth)
+
+[![Open/View Site](https://img.shields.io/badge/Open/View%20Site-blue?style=flat-square&logo=link)](https://noveum.ai/en/novasynth)
+
+Commercial freemium developer tool for testing voice agents over phone or LiveKit with configurable AI callers, batch calls, recordings, transcripts, and regression evaluations.
