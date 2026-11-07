@@ -152,6 +152,12 @@ React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI ag
 
 Toolkits and utilities for enhancing AI agent capabilities.
 
+### [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/nuanu-ai/agent-payment-node)
+
+Local CLI and stdio MCP payment tools for agent developers, with owner-set limits, command-specific foreground approval, operation status and receipts; macOS Apple Silicon only.
+
 ### [AgentKit](https://github.com/coinbase/agentkit)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/coinbase/agentkit)

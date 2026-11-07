@@ -48,6 +48,14 @@ End-to-end autonomous research workflow meant to assist you as the human researc
 
 [View in Repository](./categories/use-cases-applications.md#agent-laboratory)
 
+### [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
+
+**Category:** [Development Tools](./categories/development-tools.md) > Agent Tools
+
+Local CLI and stdio MCP payment tools for agent developers, with owner-set limits, command-specific foreground approval, operation status and receipts; macOS Apple Silicon only.
+
+[View in Repository](./categories/development-tools.md#agent-payment-node)
+
 ### [Agent Zero](https://github.com/frdel/agent-zero)
 
 **Category:** [Development Frameworks](./categories/development-frameworks.md) > Code First Projects & Frameworks
