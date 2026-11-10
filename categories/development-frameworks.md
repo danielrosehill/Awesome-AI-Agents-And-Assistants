@@ -212,6 +212,12 @@ Open-source framework for creating and managing simulations populated with AI-po
 
 Environments for running and executing AI agents.
 
+### [LazyMind](https://github.com/LazyAGI/LazyMind)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/LazyAGI/LazyMind)
+
+AI Skill Runtime for turning reusable knowledge and Skills into observable, recoverable workflows with review checkpoints and editable artifacts.
+
 ### [Chidori](https://github.com/ThousandBirdsInc/chidori)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ThousandBirdsInc/chidori)
