@@ -217,3 +217,9 @@ A suite of tools for connecting your AI to the web. Featuring a query language a
 [![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/composio/composio)
 
 Equips your AI agents & LLMs with 100+ high-quality integrations via function calling.
+
+### [Datacircle](https://datacircle.dev)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/waynehamadi/datacircle)
+
+Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website. Open API with no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
