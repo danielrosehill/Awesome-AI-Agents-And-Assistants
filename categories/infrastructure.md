@@ -52,6 +52,12 @@ Protocols for extending AI agent capabilities through standardized context shari
 
 Protocol for extending AI agent capabilities through standardized context sharing.
 
+### [No Stairs Please MCP](https://nostairsplease.com/mcp)
+
+[![Open/View Site](https://img.shields.io/badge/Open/View%20Site-blue?style=flat-square&logo=link)](https://nostairsplease.com/mcp)
+
+Remote Streamable HTTP MCP server exposing live music venue discovery, tour-routing, and booking-contact tools for AI assistants.
+
 ## RAG Applications
 
 Retrieval-Augmented Generation applications and frameworks.
