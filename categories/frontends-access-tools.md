@@ -102,3 +102,7 @@ SDK for building AI-powered user interfaces with streaming support and React/Sve
 ### [Botpress](https://github.com/botpress/botpress)
 
 Platform for building conversational AI applications with visual design tools and integration capabilities.
+
+### [Zortex](https://zortex.me/en/install)
+
+Integration layer that connects supported apps and local folders to an existing AI agent. For a quick check, authorize a small notes folder, ask the agent to find a recorded decision, and verify the quoted sentence against the file it names.
